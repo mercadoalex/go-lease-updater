@@ -21,13 +21,12 @@ Thumbs.db
 
 # Logs
 *.log
-
-# previous versions of updater
-updater_old.go
-# previous versions of lease
-lease_old.go
-# Log files 
 log.txt
+
+# Previous versions and backups
+updater_old.go
+lease_old.go
+
 # YAML files (optional: remove if you want to track leases.yaml in git)
 # leases.yaml
 
