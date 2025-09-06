@@ -18,139 +18,147 @@ items:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-10-186.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-10-194.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-10-24.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-11-190.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-11-218.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
+    namespace: kube-node-lease
+  spec:
+    renewTime: "2025-09-06T01:38:42.100965Z"
+  spec:
+    renewTime: "2025-09-06T01:38:42.100965Z"
+    leaseDurationSeconds: 40
+- metadata:
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-11-53.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-12-57.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-14-123.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-14-204.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-14-71.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-15-125.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-15-149.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-15-20.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-15-218.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-4-123.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-6-121.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-6-125.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-6-192.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-7-122.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-7-199.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-7-38.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-9-83.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
     leaseDurationSeconds: 40
 - metadata:
-    name: ip-10-216-9-91.ec2.internal
+    name: ip-66-249-84-186.ec2.internal
     namespace: kube-node-lease
   spec:
     renewTime: "2025-09-06T01:38:42.100965Z"
