@@ -67,4 +67,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Example Output
 
-![Simulation Output](output.png)
+![Simulation Output](ouput.png)
