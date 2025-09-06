@@ -1,0 +1,35 @@
+# Go build artifacts
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Dependency directories
+vendor/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# previous versions of updater
+updater_old.go
+# previous versions of lease
+lease_old.go
+# Log files 
+log.txt
+# YAML files (optional: remove if you want to track leases.yaml in git)
+# leases.yaml
+
+# Environment files
+.env
